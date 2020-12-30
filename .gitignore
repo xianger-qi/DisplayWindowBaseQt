@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.user
+
+Build/
+Bin/
+debug/
+release/
+
+
+
+
